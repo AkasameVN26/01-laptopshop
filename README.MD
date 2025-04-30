@@ -1,1 +1,1 @@
-Java 17
+Run on Java 17 - Maven
